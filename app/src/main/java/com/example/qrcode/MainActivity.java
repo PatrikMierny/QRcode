@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     TextView text;
     Button tlacidlo;
+    int x = 5;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
